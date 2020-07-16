@@ -18,4 +18,6 @@ uvicorn main:app --reload
 
 - [api docs](http://127.0.0.1:8000/redoc)
 
+- [web](http://127.0.0.1:8000/web)
+
 - [link](https://fastapi.tiangolo.com)
